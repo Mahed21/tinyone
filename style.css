@@ -1,0 +1,37 @@
+.fab
+{
+    width: 40px;
+}
+.mahed{
+    background-color: #fcdb00;
+}
+.main-div
+{
+    background-color: #fcdb00;
+    width:100%;
+    background-size: cover;
+}
+.bacground-ipad
+{
+    background-image: url(icon-1.png);
+   
+}
+.last-part
+{
+    background-color:black;
+  
+    width:100%;
+}
+input{
+    width:700px;
+    height:40px;
+   margin-top:100px;
+   margin-left:300px;
+}
+button{
+    background-color: #fcdb00;
+    height:40px;
+    width:100px;
+    border: none;
+
+}
